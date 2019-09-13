@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="PlayerAchievements:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/PlayerAchievements_jar</output-path>
+    <root id="archive" name="PlayerAchievements.jar">
+      <element id="module-output" name="PlayerAchievements" />
+    </root>
+  </artifact>
+</component>
